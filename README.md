@@ -1,10 +1,10 @@
 Hi 👋 My name is Lars
 =====================
 
-Backend Developer
+Senior Software Engineer / Backend Developer
 -----------------
 
-* 🌍  I'm based in Near Cologne, Germany
+* 🌍  I'm based in Near Berlin, Germany
 * ✉️  You can contact me at [me@elyday.net](mailto:me@elyday.net)
 
 ### Skills
