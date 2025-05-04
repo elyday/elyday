@@ -5,7 +5,9 @@ Senior Software Engineer / Backend Developer
 -----------------
 
 * 🌍  I'm based near Berlin, Germany
-* ✉️  You can contact me at [me@elyday.net](mailto:me@elyday.net)
+* ✉️  You can contact me at [hello@elyday.dev](mailto:hello@elyday.dev)
+    * Please use [age](https://github.com/FiloSottile/age) for encrypted mails.
+        * My public key is `age1c7rupsmjaqdm595snk5pugrwymr038cnvj4srpuhn0nt03ewxdus63ue5f`. Please write your mail body in a file, encrypt the whole file and attach it to the mail. If you want a response, please add your public key to the encrypted file.
 
 ### Skills
 
